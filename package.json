@@ -1,11 +1,11 @@
 {
-  "name": "Task 1",
+  "name": "task1-app-template",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/task1-app-template/",
     "preview": "vite preview"
   },
   "devDependencies": {
